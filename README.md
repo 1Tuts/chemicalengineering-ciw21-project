@@ -34,7 +34,7 @@ The website for the **SobhanSeir** Group
 ### All rights reserved ###
 Please note that SobhanSeir.ir is a curated site and that we reserve the right to refuse any listing for any reason.
 
-The [YekKhabar.ir](http://SobhanSeir.ir) code and website is released under a [MIT License](http://opensource.org/licenses/MIT).
+The [SobhanSeir.ir](http://SobhanSeir.ir) code and website is released under a [MIT License](http://opensource.org/licenses/MIT).
 
 
 Produced by 1schools students Network
