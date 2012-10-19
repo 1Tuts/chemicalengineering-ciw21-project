@@ -1,14 +1,14 @@
-## SobhanSeir
-The website for the **SobhanSeir** Group
+## chemical-engineering
+The website for the **chemical-engineering** Group
 
 
 ### Contributing
 
-* Check our projec's website and report any bugs or ideas in [issues](https://github.com/1schools-projects/SobhanSeir/issues)
+* Check our projec's website and report any bugs or ideas in [issues](https://github.com/1schools-projects/chemical-engineering/issues)
 
 * Clone this project and check source code
 ```
-    git clone https://github.com/1schools-projects/SobhanSeir.git
+    git clone https://github.com/1schools-projects/chemical-engineering.git
 ```
 
 * Fork this for your self and do some develope and pull request to us ;)
@@ -32,9 +32,9 @@ The website for the **SobhanSeir** Group
 * [**Hojat Alizadeh**](https://github.com/hojatalizadeh) Developer / Programmer / Data Gather
 
 ### All rights reserved ###
-Please note that SobhanSeir.ir is a curated site and that we reserve the right to refuse any listing for any reason.
+Please note that chemical-engineering.ir is a curated site and that we reserve the right to refuse any listing for any reason.
 
-The [SobhanSeir.ir](http://SobhanSeir.ir) code and website is released under a [MIT License](http://opensource.org/licenses/MIT).
+The [chemical-engineering.ir](http://chemical-engineering.ir) code and website is released under a [MIT License](http://opensource.org/licenses/MIT).
 
 
 Produced by 1schools students Network
