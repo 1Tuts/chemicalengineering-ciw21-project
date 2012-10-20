@@ -28,8 +28,8 @@ The website for the **chemical-engineering** Group
 
 #### The Team
 * [**Ali Mihandoost**](http://github.com/Alimd) Teacher & Technical Manager
-* [**Alireza Bakhshizadeh Mohajer**](https://github.com/alirezabm) Project Manager / Developer 
-* [**Hojat Alizadeh**](https://github.com/hojatalizadeh) Developer / Programmer / Data Gather
+* [**Hojat Alizadeh**](https://github.com/hojatalizadeh) Project Manager / Developer 
+* [**Alireza Bakhshizadeh Mohajer**](https://github.com/alirezabm) Developer / Programmer / Data Gather
 
 ### All rights reserved ###
 Please note that chemical-engineering.ir is a curated site and that we reserve the right to refuse any listing for any reason.
