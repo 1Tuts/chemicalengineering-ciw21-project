@@ -37,6 +37,11 @@
 								<span class="lbl">دربــــاره ما</span>
 							</a>
 						</li>
+						<?php
+							wp_list_pages(array(
+								'title_li' => ''
+							));
+						?>
 					</ul>
 				</div>
 			</div>
