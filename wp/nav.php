@@ -1,12 +1,4 @@
-<div class="container">
-	<div class="container-header">
-		<div class="header"></div>
-	</div>
-	<div class="content">
-		<div class="top-content">
-			<div class="menu-index">
-				<div class="container-menu-index">
-					<ul>
+<!-- 					<ul>
 						<li>
 							<a href="index.html">
 								<img class="ico" src="images/menu-home.png" width="50" height="50" />
@@ -37,11 +29,17 @@
 								<span class="lbl">دربــــاره ما</span>
 							</a>
 						</li>
-						<?php
-							wp_list_pages(array(
-								'title_li' => ''
-							));
-						?>
-					</ul>
-				</div>
-			</div>
+					</ul> -->
+					<?php
+						wp_nav_menu(array(
+							'theme_location'  => 'Mainmenu',
+							'container'       => false, 
+							'container_class' => '', 
+							'menu_class'      => '', 
+							'before'          => '',
+							'after'           => '',
+							'link_before'     => '',
+							'link_after'      => '',
+							'items_wrap'      => '<ul class="%2$s">%3$s</ul>'
+						));
+					?>
